@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/FemHackk/static/css/main.f855e6bc.css",
+    "main.js": "/FemHackk/static/js/main.bc4b233a.js",
+    "static/js/453.44e12b76.chunk.js": "/FemHackk/static/js/453.44e12b76.chunk.js",
+    "index.html": "/FemHackk/index.html",
+    "main.f855e6bc.css.map": "/FemHackk/static/css/main.f855e6bc.css.map",
+    "main.bc4b233a.js.map": "/FemHackk/static/js/main.bc4b233a.js.map",
+    "453.44e12b76.chunk.js.map": "/FemHackk/static/js/453.44e12b76.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.bc4b233a.js"
+  ]
+}
